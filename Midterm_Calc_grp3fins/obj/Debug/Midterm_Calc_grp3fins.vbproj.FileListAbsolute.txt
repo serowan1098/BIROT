@@ -1,0 +1,14 @@
+c:\users\asus\documents\visual studio 2012\Projects\Midterm_Calc_grp3fins\Midterm_Calc_grp3fins\bin\Debug\Midterm_Calc_grp3fins.exe.config
+c:\users\asus\documents\visual studio 2012\Projects\Midterm_Calc_grp3fins\Midterm_Calc_grp3fins\bin\Debug\Midterm_Calc_grp3fins.exe
+c:\users\asus\documents\visual studio 2012\Projects\Midterm_Calc_grp3fins\Midterm_Calc_grp3fins\bin\Debug\Midterm_Calc_grp3fins.pdb
+c:\users\asus\documents\visual studio 2012\Projects\Midterm_Calc_grp3fins\Midterm_Calc_grp3fins\bin\Debug\Midterm_Calc_grp3fins.xml
+c:\users\asus\documents\visual studio 2012\Projects\Midterm_Calc_grp3fins\Midterm_Calc_grp3fins\obj\Debug\Midterm_Calc_grp3fins.Form1.resources
+c:\users\asus\documents\visual studio 2012\Projects\Midterm_Calc_grp3fins\Midterm_Calc_grp3fins\obj\Debug\Midterm_Calc_grp3fins.Resources.resources
+c:\users\asus\documents\visual studio 2012\Projects\Midterm_Calc_grp3fins\Midterm_Calc_grp3fins\obj\Debug\Midterm_Calc_grp3fins.vbproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2012\Projects\Midterm_Calc_grp3fins\Midterm_Calc_grp3fins\obj\Debug\Midterm_Calc_grp3fins.exe
+c:\users\asus\documents\visual studio 2012\Projects\Midterm_Calc_grp3fins\Midterm_Calc_grp3fins\obj\Debug\Midterm_Calc_grp3fins.xml
+c:\users\asus\documents\visual studio 2012\Projects\Midterm_Calc_grp3fins\Midterm_Calc_grp3fins\obj\Debug\Midterm_Calc_grp3fins.pdb
+c:\users\asus\documents\visual studio 2012\Projects\Midterm_Calc_grp3fins\Midterm_Calc_grp3fins\obj\Debug\Midterm_Calc_grp3fins.DEC.resources
+c:\users\asus\documents\visual studio 2012\Projects\Midterm_Calc_grp3fins\Midterm_Calc_grp3fins\obj\Debug\Midterm_Calc_grp3fins.BINA.resources
+c:\users\asus\documents\visual studio 2012\Projects\Midterm_Calc_grp3fins\Midterm_Calc_grp3fins\obj\Debug\Midterm_Calc_grp3fins.HEXA.resources
+c:\users\asus\documents\visual studio 2012\Projects\Midterm_Calc_grp3fins\Midterm_Calc_grp3fins\obj\Debug\Midterm_Calc_grp3fins.OCT.resources

@@ -1,0 +1,14 @@
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Midterm_Calc_grp3fins\Midterm_Calc_grp3fins\bin\Release\Midterm_Calc_grp3fins.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Midterm_Calc_grp3fins\Midterm_Calc_grp3fins\obj\Release\Midterm_Calc_grp3fins.BINA.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Midterm_Calc_grp3fins\Midterm_Calc_grp3fins\obj\Release\Midterm_Calc_grp3fins.DEC.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Midterm_Calc_grp3fins\Midterm_Calc_grp3fins\obj\Release\Midterm_Calc_grp3fins.Form1.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Midterm_Calc_grp3fins\Midterm_Calc_grp3fins\obj\Release\Midterm_Calc_grp3fins.HEXA.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Midterm_Calc_grp3fins\Midterm_Calc_grp3fins\obj\Release\Midterm_Calc_grp3fins.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Midterm_Calc_grp3fins\Midterm_Calc_grp3fins\obj\Release\Midterm_Calc_grp3fins.OCT.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Midterm_Calc_grp3fins\Midterm_Calc_grp3fins\obj\Release\Midterm_Calc_grp3fins.vbproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Midterm_Calc_grp3fins\Midterm_Calc_grp3fins\bin\Release\Midterm_Calc_grp3fins.exe
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Midterm_Calc_grp3fins\Midterm_Calc_grp3fins\bin\Release\Midterm_Calc_grp3fins.pdb
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Midterm_Calc_grp3fins\Midterm_Calc_grp3fins\bin\Release\Midterm_Calc_grp3fins.xml
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Midterm_Calc_grp3fins\Midterm_Calc_grp3fins\obj\Release\Midterm_Calc_grp3fins.exe
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Midterm_Calc_grp3fins\Midterm_Calc_grp3fins\obj\Release\Midterm_Calc_grp3fins.xml
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Midterm_Calc_grp3fins\Midterm_Calc_grp3fins\obj\Release\Midterm_Calc_grp3fins.pdb
